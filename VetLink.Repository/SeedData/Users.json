@@ -1,0 +1,41 @@
+[
+	{
+		"Id": 2,
+		"UserName": "seller1@vetlink.com",
+		"Email": "seller1@vetlink.com",
+		"FullName": "John Veterinary Supplies",
+		"PhoneNumber": "+201550554042",
+		"EmailConfirmed": true,
+		"PhoneNumberConfirmed": true,
+		"Status": 1,
+		"EmailVerifiedAt": "2024-01-15T10:30:00",
+		"CreatedAt": "2024-01-15T10:30:00",
+		"UpdatedAt": "2024-01-15T10:30:00"
+	},
+	{
+		"Id": 3,
+		"UserName": "buyer1@vetlink.com",
+		"Email": "buyer1@vetlink.com",
+		"FullName": "Dr. Sarah Wilson",
+		"PhoneNumber": "+201550554043",
+		"EmailConfirmed": true,
+		"PhoneNumberConfirmed": true,
+		"Status": 1,
+		"EmailVerifiedAt": "2024-01-15T10:30:00",
+		"CreatedAt": "2024-01-15T10:30:00",
+		"UpdatedAt": "2024-01-15T10:30:00"
+	},
+	{
+		"Id": 4,
+		"UserName": "veterinarian1@vetlink.com",
+		"Email": "veterinarian1@vetlink.com",
+		"FullName": "Dr. Michael Chen",
+		"PhoneNumber": "+201550554044",
+		"EmailConfirmed": true,
+		"PhoneNumberConfirmed": true,
+		"Status": 1,
+		"EmailVerifiedAt": "2024-01-15T10:30:00",
+		"CreatedAt": "2024-01-15T10:30:00",
+		"UpdatedAt": "2024-01-15T10:30:00"
+	}
+]

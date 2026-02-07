@@ -1,0 +1,34 @@
+[
+	{
+		"Id": 1,
+		"Name": "Zoetis"
+	},
+	{
+		"Id": 2,
+		"Name": "Merck Animal Health"
+	},
+	{
+		"Id": 3,
+		"Name": "Elanco"
+	},
+	{
+		"Id": 4,
+		"Name": "Bayer Animal Health"
+	},
+	{
+		"Id": 5,
+		"Name": "Virbac"
+	},
+	{
+		"Id": 6,
+		"Name": "Dechra"
+	},
+	{
+		"Id": 7,
+		"Name": "Vetoquinol"
+	},
+	{
+		"Id": 8,
+		"Name": "Ceva"
+	}
+]

@@ -1,0 +1,20 @@
+﻿[
+	{
+		"UserId": 2,
+		"StoreName": "Premium Vet Supplies",
+		"StoreDescription": "Leading supplier of veterinary medications and equipment in Egypt.",
+		"StoreLogoURL": "https://example.com/logos/premium-vet.jpg",
+		"CommercialRegisterURL": "https://example.com/docs/commercial-register-001.pdf",
+		"PracticeLicenseURL": "https://example.com/docs/license-001.pdf",
+		"ApprovedAt": "2024-01-15T10:30:00"
+	},
+	{
+		"UserId": 3,
+		"StoreName": "Surgical Tools Egypt",
+		"StoreDescription": "Specialized in high-quality surgical instruments for veterinary clinics.",
+		"StoreLogoURL": "https://example.com/logos/surgical-tools.jpg",
+		"CommercialRegisterURL": "https://example.com/docs/commercial-register-002.pdf",
+		"PracticeLicenseURL": "https://example.com/docs/license-002.pdf",
+		"ApprovedAt": "2024-01-15T10:30:00"
+	}
+]

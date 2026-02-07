@@ -1,0 +1,32 @@
+[
+	{
+		"Id": 1,
+		"ProductId": 1,
+		"ImageURL": "https://example.com/images/apoquel-16mg.jpg",
+		"IsPrimary": true
+	},
+	{
+		"Id": 2,
+		"ProductId": 1,
+		"ImageURL": "https://example.com/images/apoquel-packaging.jpg",
+		"IsPrimary": false
+	},
+	{
+		"Id": 3,
+		"ProductId": 2,
+		"ImageURL": "https://example.com/images/bravecto-chew.jpg",
+		"IsPrimary": true
+	},
+	{
+		"Id": 4,
+		"ProductId": 3,
+		"ImageURL": "https://example.com/images/littmann-stethoscope.jpg",
+		"IsPrimary": true
+	},
+	{
+		"Id": 5,
+		"ProductId": 4,
+		"ImageURL": "https://example.com/images/surgical-scissors-set.jpg",
+		"IsPrimary": true
+	}
+]

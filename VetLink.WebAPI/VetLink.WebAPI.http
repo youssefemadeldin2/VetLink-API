@@ -1,0 +1,6 @@
+@VetLink.WebAPI_HostAddress = http://localhost:5009
+
+GET {{VetLink.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

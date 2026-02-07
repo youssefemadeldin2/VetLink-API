@@ -1,0 +1,22 @@
+[
+	{
+		"ProductId": 1,
+		"AverageRate": 4.5,
+		"ViewCount": 120
+	},
+	{
+		"ProductId": 2,
+		"AverageRate": 4.2,
+		"ViewCount": 85
+	},
+	{
+		"ProductId": 3,
+		"AverageRate": 4.8,
+		"ViewCount": 45
+	},
+	{
+		"ProductId": 4,
+		"AverageRate": 4.0,
+		"ViewCount": 30
+	}
+]

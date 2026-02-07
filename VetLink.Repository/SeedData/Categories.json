@@ -1,0 +1,47 @@
+[
+	{
+		"Id": 1,
+		"Name": "Medications",
+		"ParentId": null
+	},
+	{
+		"Id": 2,
+		"Name": "Surgical Equipment",
+		"ParentId": null
+	},
+	{
+		"Id": 3,
+		"Name": "Diagnostic Tools",
+		"ParentId": null
+	},
+	{
+		"Id": 4,
+		"Name": "Antibiotics",
+		"ParentId": 1
+	},
+	{
+		"Id": 5,
+		"Name": "Vaccines",
+		"ParentId": 1
+	},
+	{
+		"Id": 6,
+		"Name": "Surgical Instruments",
+		"ParentId": 2
+	},
+	{
+		"Id": 7,
+		"Name": "Anesthesia Equipment",
+		"ParentId": 2
+	},
+	{
+		"Id": 8,
+		"Name": "Stethoscopes",
+		"ParentId": 3
+	},
+	{
+		"Id": 9,
+		"Name": "Thermometers",
+		"ParentId": 3
+	}
+]

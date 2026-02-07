@@ -1,0 +1,30 @@
+[
+	{
+		"Id": 1,
+		"UserId": 3,
+		"AddressLine1": "123 Veterinary Street",
+		"AddressLine2": "Clinic Building",
+		"City": "Cairo",
+		"Country": "Egypt",
+		"PostalCode": "11511",
+		"IsDefault": true
+	},
+	{
+		"Id": 2,
+		"UserId": 3,
+		"AddressLine1": "456 Animal Care Road",
+		"City": "Giza",
+		"Country": "Egypt",
+		"PostalCode": "12511",
+		"IsDefault": false
+	},
+	{
+		"Id": 3,
+		"UserId": 4,
+		"AddressLine1": "789 Pet Clinic Avenue",
+		"City": "Alexandria",
+		"Country": "Egypt",
+		"PostalCode": "21511",
+		"IsDefault": true
+	}
+]

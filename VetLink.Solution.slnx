@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VetLink.Data/VetLink.Data.csproj" />
+  <Project Path="VetLink.Repository/VetLink.Repository.csproj" />
+  <Project Path="VetLink.Services/VetLink.Services.csproj" />
+  <Project Path="VetLink.WebAPI/VetLink.WebAPI.csproj" />
+</Solution>

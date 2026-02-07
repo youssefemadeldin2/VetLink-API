@@ -1,0 +1,35 @@
+[
+	{
+		"Id": 1,
+		"Code": "WELCOME10",
+		"Value": 10.00,
+		"Type": 1,
+		"MaxUsage": 100,
+		"UsageCount": 25,
+		"ValidFrom": "2024-01-01T00:00:00",
+		"ValidTo": "2024-12-31T23:59:59",
+		"CreatorId": 1
+	},
+	{
+		"Id": 2,
+		"Code": "VETCLINIC15",
+		"Value": 15.00,
+		"Type": 1,
+		"MaxUsage": 50,
+		"UsageCount": 12,
+		"ValidFrom": "2024-01-01T00:00:00",
+		"ValidTo": "2024-06-30T23:59:59",
+		"CreatorId": 1
+	},
+	{
+		"Id": 3,
+		"Code": "BULKORDER",
+		"Value": 20.00,
+		"Type": 2,
+		"MaxUsage": 30,
+		"UsageCount": 5,
+		"ValidFrom": "2024-01-01T00:00:00",
+		"ValidTo": "2024-12-31T23:59:59",
+		"CreatorId": 1
+	}
+]
